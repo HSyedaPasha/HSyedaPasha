@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Syeda!
+I'm a Power BI enthusiast who loves turning raw data into interactive dashboards and visual stories.
 
-<!--
-**HSyedaPasha/HSyedaPasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 What I Do
+- 🧠 Data modeling & transformation (Power Query, DAX)
+- 📊 Power BI dashboards & KPI reporting
+- 🧹 Data cleaning & preprocessing
+📌 Projects
+- 🔹 Sales Dashboard (PBIX + screenshots)
+- 🔹 Marketing Funnel Report
+- 🔹 Customer Segmentation using Power BI
+🔗 Connect with Me
+- 💼 https://www.linkedin.com/in/syeda-pasha-298b79365/
+- 📫 h.syedapasha@gmail.com
